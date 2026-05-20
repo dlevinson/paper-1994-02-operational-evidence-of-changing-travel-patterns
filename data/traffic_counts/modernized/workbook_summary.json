@@ -1,0 +1,134 @@
+{
+  "files": {
+    "lotus123_v3": {
+      "xlsx": "modernized/xlsx/traffic_counts_1976_1985_lotus123_v3.xlsx",
+      "csv_values": "modernized/csv/traffic_counts_1976_1985_lotus123_v3_values.csv",
+      "sheet_name": "Sheet1",
+      "max_row": 95,
+      "max_column": 17,
+      "nonempty_cells": 500,
+      "formula_cells": 113,
+      "sha256_xlsx": "15007c038c94673bcf7a9541803ddfc98b0fd9e7b7295d9fee4682345ba84757",
+      "sha256_csv": "de44782abc4a4686ca471c9b4a6931309fbbe4217b3cdd2dfc5be334b99b85af"
+    },
+    "lotus123_wk1": {
+      "xlsx": "modernized/xlsx/traffic_counts_1976_1985_lotus123_wk1.xlsx",
+      "csv_values": "modernized/csv/traffic_counts_1976_1985_lotus123_wk1_values.csv",
+      "sheet_name": "Sheet1",
+      "max_row": 95,
+      "max_column": 19,
+      "nonempty_cells": 497,
+      "formula_cells": 113,
+      "sha256_xlsx": "ef9445fae6b38212d7cf79cb7d13d44eb88a4374c0607c5e54e05ddbe9afd915",
+      "sha256_csv": "94e93eb363c42c90e2d7d6fb76d3270fa83abd8f12493904f5396df364b7baf7"
+    }
+  },
+  "comparison": {
+    "cell_differences": 34,
+    "numeric_differences": 6,
+    "formula_differences": 0,
+    "interpretation": "Converted workbooks have the same formula cells and no substantive numeric differences; differences are header/layout text and one label spelling difference.",
+    "first_differences": [
+      {
+        "cell": "K2",
+        "lotus123_v3": "Table 2:",
+        "lotus123_wk1": "      Table 2:  Morning and Afternoon Peak Period Average "
+      },
+      {
+        "cell": "L2",
+        "lotus123_v3": "Morning and Afternoon Peak Period",
+        "lotus123_wk1": null
+      },
+      {
+        "cell": "K3",
+        "lotus123_v3": null,
+        "lotus123_wk1": "                Traffic Volumes, by Direction "
+      },
+      {
+        "cell": "L3",
+        "lotus123_v3": "Average Traffic Volumes, by Direction ",
+        "lotus123_wk1": null
+      },
+      {
+        "cell": "L7",
+        "lotus123_v3": "              1976",
+        "lotus123_wk1": 1976
+      },
+      {
+        "cell": "N7",
+        "lotus123_v3": "                  1985",
+        "lotus123_wk1": 1985
+      },
+      {
+        "cell": "P7",
+        "lotus123_v3": "         % Change",
+        "lotus123_wk1": " % Change"
+      },
+      {
+        "cell": "K11",
+        "lotus123_v3": "Northbound (S-N)",
+        "lotus123_wk1": "Nortbound (S-N)"
+      },
+      {
+        "cell": "K21",
+        "lotus123_v3": "Table 3: ",
+        "lotus123_wk1": "      Table 3:  Morning and Afternoon Peak Half Hour Average "
+      },
+      {
+        "cell": "L21",
+        "lotus123_v3": "Morning and Afternoon",
+        "lotus123_wk1": null
+      },
+      {
+        "cell": "K22",
+        "lotus123_v3": null,
+        "lotus123_wk1": "                Traffic Volumes, by Direction "
+      },
+      {
+        "cell": "L22",
+        "lotus123_v3": "Peak Half Hour",
+        "lotus123_wk1": null
+      },
+      {
+        "cell": "L23",
+        "lotus123_v3": "Average Traffic Volumes, by Direction ",
+        "lotus123_wk1": null
+      },
+      {
+        "cell": "R25",
+        "lotus123_v3": null,
+        "lotus123_wk1": "-"
+      },
+      {
+        "cell": "S25",
+        "lotus123_v3": null,
+        "lotus123_wk1": "-"
+      },
+      {
+        "cell": "L26",
+        "lotus123_v3": "              1976",
+        "lotus123_wk1": 1976
+      },
+      {
+        "cell": "N26",
+        "lotus123_v3": "                  1985",
+        "lotus123_wk1": 1985
+      },
+      {
+        "cell": "P26",
+        "lotus123_v3": "         % Change",
+        "lotus123_wk1": " % Change"
+      },
+      {
+        "cell": "K30",
+        "lotus123_v3": "Northbound (S-N)",
+        "lotus123_wk1": "Nortbound (S-N)"
+      },
+      {
+        "cell": "K40",
+        "lotus123_v3": " Table 4: ",
+        "lotus123_wk1": " Table 4: Ratio of Peak Half-hour to"
+      }
+    ]
+  }
+}
