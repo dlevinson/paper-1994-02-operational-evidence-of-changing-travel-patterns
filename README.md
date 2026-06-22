@@ -1,5 +1,9 @@
 # Operational Evidence Of Changing Travel Patterns
 
+## Contribution
+
+This paper shows how routinely collected traffic counts can reveal long-run changes in metropolitan travel behavior without relying solely on household surveys. Montgomery County evidence from 1976–1985 documents faster growth in suburban-to-suburban travel, afternoon traffic exceeding the morning peak, peak spreading, and more balanced use of roads for lateral trips.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1994-02`
