@@ -37,10 +37,13 @@ The source folder also contains an editor/submission letter, a Word manuscript d
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-06-29 05:58:29 AEST
 
 - Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Root license: `LICENSE.md` (CC BY 4.0 for author-controlled documentation,
+  legacy traffic-count workbooks, and derived spreadsheet/CSV tables; paper PDF
+  and third-party assets remain under their original terms).
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
 <!-- package-hardening-status:end -->
